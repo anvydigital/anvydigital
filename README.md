@@ -1,4 +1,4 @@
-[![anvydigital](http://anvydigital.com/assets/images/logos/logo14-07-15.05-02-17.png)](http://anvydigital.com)
+[![anvydigital](http://demo.anvydigital.com/wp-content/uploads/2020/09/anvy-digital.svg)](http://anvydigital.com)
 
 # About us
 ## Our history
